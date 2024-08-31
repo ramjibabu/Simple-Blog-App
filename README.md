@@ -1,4 +1,4 @@
-COD-TECH-TASK2
+COD-TECH-TASK 2
 ---
 
 # Simple Blog Application
@@ -12,15 +12,12 @@ This is a simple blog application built using a Full Stack approach. It allows u
 - **Frontend**: React (or your preferred frontend library/framework)
 - **Backend**: Node.js with Express.js
 - **Database**: MongoDB
-- **Authentication**: JSON Web Tokens (JWT) or similar (if applicable)
 - **Styling**: CSS/SCSS, Bootstrap/Tailwind (if applicable)
 
 ## Features
 
-- **User Authentication**: Register and login to manage your blog posts.
 - **CRUD Operations**: Create, read, update, and delete blog posts.
 - **Responsive Design**: Accessible and usable on various devices.
-- **Search and Filter**: Search and filter posts based on categories or tags.
 
 ## Getting Started
 
