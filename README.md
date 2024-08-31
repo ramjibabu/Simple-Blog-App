@@ -124,4 +124,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[MongoDB](https://www.mongodb.com/)**: For the database.
 
 ---
-
+Here is the output
+![WhatsApp Image 2024-08-31 at 3 45 25 PM](https://github.com/user-attachments/assets/99113061-fb4d-4d46-824f-6b83b804c206)
